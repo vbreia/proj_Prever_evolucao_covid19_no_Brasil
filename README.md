@@ -10,12 +10,12 @@ Mentoria ministrada pelo Professor: [**Dr. Neylson Crepalde**](https://github.co
 <div align="center">
 
 <a href="https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados"><img src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="130"/></a>
-
+<a href="https://www.dio.me/certificate/B4A53E24/share">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/B4A53E24.jpg" width="550"/>
+</a>
 </div>
 
-<a href="https://www.dio.me/certificate/B4A53E24/share">
-<img src="https://hermes.digitalinnovation.one/certificates/cover/B4A53E24.jpg" />
-</a>
+
 
 ### Descrição
 
