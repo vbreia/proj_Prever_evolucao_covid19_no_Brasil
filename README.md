@@ -13,9 +13,9 @@ Mentoria ministrada pelo Professor: [**Dr. Neylson Crepalde**](https://github.co
 
 </div>
 
-<!-- <a href="link_certificado">
-<img src="certificado" />
-</a> -->
+<a href="https://www.dio.me/certificate/B4A53E24/share">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/B4A53E24.jpg" />
+</a>
 
 ### Descrição
 
@@ -29,7 +29,7 @@ Análise exploratória dos dados do COVID-19 com Python.
 
 ### Tecnologias utilizadas: 
 
-![Static Badge](https://img.shields.io/badge/Python-black?logo=Python&logoColor=green) ![Static Badge](https://img.shields.io/badge/Juptyter_Notebook-black?logo=jupyter&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Pandas-black?logo=Pandas&logoColor=magenta) ![Static Badge](https://img.shields.io/badge/Machine_Learning-black?logo=rubocop&logoColor=pink)
+![Static Badge](https://img.shields.io/badge/Python-grey?logo=Python&logoColor=green) ![Static Badge](https://img.shields.io/badge/Juptyter_Notebook-grey?logo=jupyter&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Pandas-grey?logo=Pandas&logoColor=magenta) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?logo=rubocop&logoColor=pink)
 
 
 
