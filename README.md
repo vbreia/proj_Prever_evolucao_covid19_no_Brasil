@@ -28,6 +28,11 @@ Análise exploratória dos dados do COVID-19 com Python.
   - De recuperados e de óbitos.
 - Para construir modelos com *Python* e *Machine Learning* para prever os números nos próximos dias e o ponto de virada da curva de infecção baseado em alguns cenários.
 
+### Observação:
+
+- Os gráficos gerados pela biblioteca `Plotly` provavelmente não serão exibidos na plataforma do github, pois ela gera gráficos dinâmicos, diferente da `Matplotlib`. 
+- Para acessar corretamente, execcute o arquivo jupyter notebook em um ambiente apropriado.    
+
 ### Tecnologias utilizadas: 
 
 ![Static Badge](https://img.shields.io/badge/Python-grey?logo=Python&logoColor=green) ![Static Badge](https://img.shields.io/badge/Juptyter_Notebook-grey?logo=jupyter&logoColor=orange) ![Static Badge](https://img.shields.io/badge/Pandas-grey?logo=Pandas&logoColor=magenta) ![Static Badge](https://img.shields.io/badge/Machine_Learning-grey?logo=rubocop&logoColor=pink)
